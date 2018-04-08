@@ -25,11 +25,15 @@ h2 {
 }
 
 .verse {
+  display: -ms-flexbox;
+  display: flex;
   text-align: justify;
   margin-bottom: 30px;
 }
 
 .verses {
+  display: -ms-flexbox;
+  display: flex;
   margin: 0 auto;
   width: 650px;
 }

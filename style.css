@@ -25,6 +25,8 @@ h2 {
 }
 
 .verse {
+  display: flex;
+  justify-content: center;
   text-align: justify;
   margin-bottom: 30px;
 }
