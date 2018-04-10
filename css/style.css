@@ -9,7 +9,7 @@ h1 {
 
 h2 {
   font-size: 35px;
-  color: #ccc;
+  color: #646a72;
 }
 
 .first-verse {
@@ -22,11 +22,10 @@ h2 {
 
 .third-verse {
   font-style: italic;
+  font-family: serif;
 }
 
 .verse {
-  display: flex;
-  justify-content: center;
   text-align: justify;
   margin-bottom: 30px;
 }
@@ -36,3 +35,20 @@ h2 {
   margin: 0 auto;
   width: 650px;
 }
+
+test {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+test2 {
+  display: flex;
+  justify-content: center;
+}
+
+test 3 {
+  display: flex;
+  justify-content: flex-start;
+}
+
+/*# sourceMappingURL=style.css.map */

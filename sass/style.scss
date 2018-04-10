@@ -1,0 +1,52 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px;
+  color: #84055c;
+}
+
+h2 {
+  font-size: 35px;
+  color: #646a72;
+}
+
+.first-verse {
+  font-size: 20px;
+}
+
+.second-verse {
+  color: #706d6f;
+}
+
+.third-verse {
+  font-style: italic;
+  font-family: serif;
+}
+
+.verse {
+  text-align: justify;
+  margin-bottom: 30px;
+}
+
+.verses {
+  display: flex;
+  margin: 0 auto;
+  width: 650px;
+}
+
+test {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+test2 {
+  display:flex;
+  justify-content: center;
+}
+test 3
+{
+  display: flex;
+  justify-content: flex-start;
+}
