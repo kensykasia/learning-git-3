@@ -1,60 +1,21 @@
-body {
-  text-align: center;
-}
+body { text-align: center; }
 
-h1 {
-  font-size: 70px;
-  color: #84055c;
-}
+h1 { font-size: 70px; color: #84055c; }
 
-h2 {
-  font-size: 35px;
-  color: #646a72;
-}
+h2 { font-size: 35px; color: #646a72; }
 
-.first-verse {
-  font-size: 20px;
-}
+.first-verse { font-size: 20px; }
 
-.second-verse {
-  color: #706d6f;
-}
+.second-verse { color: #706d6f; }
 
-.third-verse {
-  font-style: italic;
-  font-family: serif;
-}
+.third-verse { font-style: italic; font-family: serif; }
 
-.verse {
-  text-align: justify;
-  margin-bottom: 30px;
-}
+.verse { text-align: justify; margin-bottom: 30px; }
 
-.verses {
-  display: -ms-flexbox;
-  display: flex;
-  margin: 0 auto;
-  width: 650px;
-}
+.verses { display: -ms-flexbox; display: flex; margin: 0 auto; width: 650px; }
 
-test {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-}
+test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
-test2 {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: center;
-      justify-content: center;
-}
+test2 { display: -ms-flexbox; display: flex; -ms-flex-pack: center; justify-content: center; }
 
-test 3 {
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: start;
-      justify-content: flex-start;
-}
-/*# sourceMappingURL=style.prefixed.css.map */
+test 3 { display: -ms-flexbox; display: flex; -ms-flex-pack: start; justify-content: flex-start; }
