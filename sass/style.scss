@@ -1,10 +1,9 @@
 body {
   text-align: center;
-  margin: 0;
 }
 
 h1 {
-  font-size: 70px;
+  font-size: 75px;
   color: #84055c;
 }
 
@@ -45,8 +44,13 @@ test2 {
   display:flex;
   justify-content: center;
 }
+
 test 3
 {
   display: flex;
   justify-content: flex-start;
+}
+test 4 {
+  display: flex;
+  justify-content: flex-end;
 }
