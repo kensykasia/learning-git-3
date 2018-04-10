@@ -1,4 +1,4 @@
-body { text-align: center; }
+body { text-align: center; margin: 0; }
 
 h1 { font-size: 70px; color: #84055c; }
 
@@ -12,7 +12,7 @@ h2 { font-size: 35px; color: #646a72; }
 
 .verse { text-align: justify; margin-bottom: 30px; }
 
-.verses { display: -ms-flexbox; display: flex; margin: 0 auto; width: 650px; }
+.verses { margin: 0 auto; width: 650px; }
 
 test { display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
 
